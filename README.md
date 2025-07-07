@@ -14,7 +14,7 @@ occasionally tried dumb ideas just to see what happens
 
 if that sounds useful to you, cool — poke around.
 -------------------------------------------------------
-🧑‍💻 who this is for
+ who this is for  -
 us, mainly
 
 maybe you, if you’re into informatics olympiads or CP stuff
