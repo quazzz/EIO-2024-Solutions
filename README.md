@@ -2,7 +2,7 @@
 
 this repo’s just us messing around with the Estonian Informatics Olympiad 2024 problems.
 not official, not perfect — just our own takes, notes, and code dumps while trying to figure stuff out.
-
+-------------------------------------------------------
 💭 why we did this
 needed a place to throw our solutions
 
@@ -13,7 +13,7 @@ wrote some comments so future-us wouldn’t get lost reading our own code
 occasionally tried dumb ideas just to see what happens
 
 if that sounds useful to you, cool — poke around.
-
+-------------------------------------------------------
 🧑‍💻 who this is for
 us, mainly
 
